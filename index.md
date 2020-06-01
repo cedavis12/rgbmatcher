@@ -1,116 +1,88 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>RGB Matcher</title>
-    <link rel="stylesheet" href="styles.css" type="text/css" />
-  </head>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">[RGB Matcher](index.html)<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="index.html">RGB Matcher</a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarColor01"
-        aria-controls="navbarColor01"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
+<div class="collapse navbar-collapse" id="navbarColor01">
 
-      <div class="collapse navbar-collapse" id="navbarColor01">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="privacypolicy.html">Privacy Policy</a>
-          </li>
-          <!-- <li class="nav-item">
-            <a class="nav-link" href="#">About the Developer</a>
-          </li> -->
-        </ul>
-      </div>
-    </nav>
-    <header class="masthead">
-      <div class="container h-100">
-        <div class="row h-100">
-          <div class="col-lg-7 my-auto">
-            <div class="header-content mx-auto">
-              <h1 class="mb-5">
-                RGB Matcher is a fun, challenging color matching game
-              </h1>
-              <div class="badges">
-                <a class="badge-link" href="#"
-                  ><img src="img/app-store-badge.svg" alt=""
-                /></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-5 my-auto">
-            <div class="device-container">
-              <div class="device-mockup iphone6_plus portrait white">
-                <div class="device">
-                  <div class="screen">
-                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
-                    <img
-                      src="img/main.png"
-                      class="img-fluid"
-                      alt="App store image"
-                    />
-                  </div>
-                  <div class="button"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
+- [Home](index.html)
+- [Privacy Policy](privacypolicy.html)
 
-    <div class="bg-grey">
-      <img
-        class="mx-auto d-block img-fluid"
-        src="img/Collection.png"
-        alt="app store images"
-      />
-    </div>
+</div>
 
-    <section class="download bg-blue text-center" id="download">
-      <div class="container">
-        <div class="row">
-          <div class="mx-auto">
-            <h2>
-              Can you match the color?
-            </h2>
-            <br />
-            <h3>
-              RGB Matcher is available only the App Store! Download now to play!
-            </h3>
-            <br />
-            <div class="badges">
-              <a class="badge-link" href="#"
-                ><img src="img/app-store-badge.svg" alt=""
-              /></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+</nav>
 
-    <footer>
-      <div class="container">
-        <p>&copy; RGB Matcher. All Rights Reserved.</p>
-        <ul class="list-inline">
-          <li class="list-inline-item">
-            <a href="privacypolicy.html">Privacy</a>
-          </li>
-        </ul>
-      </div>
-    </footer>
-  </body>
-</html>
+<header class="masthead">
+
+<div class="container h-100">
+
+<div class="row h-100">
+
+<div class="col-lg-7 my-auto">
+
+<div class="header-content mx-auto">
+
+# RGB Matcher is a fun, challenging color matching game
+
+<div class="badges">[![](img/app-store-badge.svg)](#)</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-5 my-auto">
+
+<div class="device-container">
+
+<div class="device-mockup iphone6_plus portrait white">
+
+<div class="device">
+
+<div class="screen">![App store image](img/main.png)</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</header>
+
+<div class="bg-grey">![app store images](img/Collection.png)</div>
+
+<section class="download bg-blue text-center" id="download">
+
+<div class="container">
+
+<div class="row">
+
+<div class="mx-auto">
+
+## Can you match the color?
+
+### RGB Matcher is available only the App Store! Download now to play!
+
+<div class="badges">[![](img/app-store-badge.svg)](#)</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<div class="container">
+
+© RGB Matcher. All Rights Reserved.
+
+- [Privacy](privacypolicy.md)
+
+</div>
+
+</footer>
